@@ -6,14 +6,14 @@
 function solve(boardString) {
   console.log('first changes');
 }
-
+///Kirill privet
 // Returns a boolean indicating whether
 // or not the provided board is solved.
 // The input board will be in whatever
 // form `solve` returns.
 function isSolved(board) {
 
-}123
+}
 
 // Takes in a board in some form and
 // returns a String that's well formatted
