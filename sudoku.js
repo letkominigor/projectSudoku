@@ -6,7 +6,7 @@
 function solve(boardString) {
   console.log('first changes');
 }
-///Kirill privet
+
 // Returns a boolean indicating whether
 // or not the provided board is solved.
 // The input board will be in whatever
