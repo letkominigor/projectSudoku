@@ -13,7 +13,7 @@ function solve(boardString) {
 // form `solve` returns.
 function isSolved(board) {
 
-}
+}123
 
 // Takes in a board in some form and
 // returns a String that's well formatted
